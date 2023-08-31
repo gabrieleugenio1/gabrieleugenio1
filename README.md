@@ -36,7 +36,7 @@ Olá, eu sou Gabriel Eugênio!
 <div align="center">
 <div style="display: inline_block">
 
-# Algumas das ferramentas/tecnólogias que conheço:
+# Algumas das ferramentas/tecnologias que conheço:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,sequelize,java,spring,python,django,aws,gcp,firebase,figma,github)]((https://github.com/gabrieleugenio1))
 
 
